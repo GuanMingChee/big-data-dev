@@ -11,4 +11,6 @@ I am from Malaysia, a multicultural country. I like to play sports for my leisur
 Junior level penetration tester/security analyst are among my main goals after graduation, but software engineering and data analyst are welcomed. 
 Aside of job, I hope to keep a balanced in between exercise and work.
 
+## Link
+-[LinkedIn](https://www.linkedin.com/in/guan-ming-chee-0821b1170/)
 
