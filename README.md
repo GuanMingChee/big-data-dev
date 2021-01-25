@@ -13,6 +13,7 @@ Aside of job, I hope to keep a balanced in between exercise and work.
 
 ## Link
 - [LinkedIn](https://www.linkedin.com/in/guan-ming-chee-0821b1170/)
+- [Shell Data Processing](https://github.com/GuanMingChee/shell-data-processing)
 
 Don't Laugh!
 
